@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 - 🔭 I am finishing up my degree this fall
 - 🌱 I am currently Learning Game Design
 
+# Current Projects:
+- [Apple Picker](https://github.com/Jacobchestnut16/Apple-Picker)
+- [Unity 2022 by Example - Fork](https://github.com/Jacobchestnut16/Unity-2022-by-Example)
+- [GGTM-3D](https://github.com/Jacobchestnut16/GGTM-3D)
+- [Crypto Wallet Manager](https://github.com/Jacobchestnut16/Wallets)
+- [Web-DLP-Down-z](https://github.com/Jacobchestnut16/Web-dlp-down-z)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jacob-chestnut-a4aaa8375) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jchestnut@chestnutsprogramming.com)
