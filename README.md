@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 - 🌱 I am currently Learning Game Design
 
 # Current Projects:
-- [Apple Picker](https://github.com/Jacobchestnut16/Apple-Picker)
-- [Unity 2022 by Example - Fork](https://github.com/Jacobchestnut16/Unity-2022-by-Example)
+
 - [GGTM-3D](https://github.com/Jacobchestnut16/GGTM-3D)
 - [Trakt to Plex](https://github.com/Jacobchestnut16/TraktToPlex)
+- [Trakt Plus App](https://github.com/Jacobchestnut16/TraktCPP)
+<!--
 - [Crypto Wallet Manager](https://github.com/Jacobchestnut16/Wallets)
+-->
 - [Web-DLP-Down-z](https://github.com/Jacobchestnut16/Web-dlp-down-z)
 
 
