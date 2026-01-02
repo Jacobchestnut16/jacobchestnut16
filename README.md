@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 # Current Projects:
 
-- [GGTM-3D](https://github.com/Jacobchestnut16/GGTM-3D)
-- [Trakt to Plex](https://github.com/Jacobchestnut16/TraktToPlex)
-- [Trakt Plus App](https://github.com/Jacobchestnut16/TraktCPP)
+- [Jelly-Stat](https://github.com/Jacobchestnut16/Jelly-Stat)
 <!--
 - [Crypto Wallet Manager](https://github.com/Jacobchestnut16/Wallets)
 -->
