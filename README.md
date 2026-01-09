@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-- 🔭 I am finishing up my degree this fall
-- 🌱 I am currently Learning Game Design
+# About Me:
+- I have a degree in computer systems info tech from the university of pittsburgh
+- I am exploring different types of opensource solutions, and looking to expand some of the projects
 
 # Current Projects:
 
